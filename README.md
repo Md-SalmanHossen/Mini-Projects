@@ -27,4 +27,5 @@ Function: () => setCounter(counter + 1)
 ```
 This is an arrow function that calls the setCounter function with the current counter value incremented by 1.
 Result: The counter state is updated, and the displayed counter value increases by 1.
-similar other button Decrement Button work.
+
+### similar other button Decrement Button work.
